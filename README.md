@@ -1,7 +1,5 @@
-<h2> Script <u>Clipclap</u> by <b>iewil</b> </h2>
+<h2> Script for Bot Apk Clipclaps by <b>iewil</b></h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="380">
-i'm from indonesia
-<br />
 
 
 **Languages and Tools:** <br /><br />
