@@ -7,5 +7,5 @@
 <br />
 
 **Refferensi:** <br />
-YOUTUBE => https://youtu.be/vhgBz6D1qeo <br />
-LINK APK => https://h5.cc.lerjin.com/propaganda/#/community?clapcode=3757227778
+<b>YOUTUBE</b> => https://youtu.be/vhgBz6D1qeo <br />
+<b>LINK APK</b> => https://h5.cc.lerjin.com/propaganda/#/community?clapcode=3757227778
