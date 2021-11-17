@@ -1,5 +1,5 @@
 <h2> Script for Bot Apk Clipclaps by <b>iewil</b></h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="380">
+<img align='right' src="https://github.com/iewilmaestro/Clipclaps/blob/main/img.jpg" width="380">
 
 
 **Languages and Tools:** <br /><br />
